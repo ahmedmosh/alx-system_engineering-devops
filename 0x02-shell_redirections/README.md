@@ -9,3 +9,4 @@ my first shell redirections
 
  8-cwd_state: "to create the output of long listing of my directory to a file"
  9-duplicate_last_line "to duplicate the last line in iacta"
+ 19-no_more_js : " to delete all regular files with extension js"
