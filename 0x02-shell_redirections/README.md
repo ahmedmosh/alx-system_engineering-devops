@@ -5,4 +5,4 @@ my first shell redirections
  3-twofiles: "diplays the content of etc/passwd and etc/hosts
  4-lastlines: 'displays the last 10 lines of the etc/passwd
  5-firstlines: "diaplays the first 10 lines of the etc/passwd
- 
+ 6-third_line: "displays the third of line of file iacta"
