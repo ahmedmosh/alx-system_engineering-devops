@@ -8,4 +8,4 @@ my first shell redirections
  6-third_line: "displays the third of line of file iacta"
 
  8-cwd_state: "to create the output of long listing of my directory to a file"
-
+ 9-duplicate_last_line "to duplicate the last line in iacta"
