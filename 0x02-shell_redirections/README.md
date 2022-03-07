@@ -6,3 +6,6 @@ my first shell redirections
  4-lastlines: 'displays the last 10 lines of the etc/passwd
  5-firstlines: "diaplays the first 10 lines of the etc/passwd
  6-third_line: "displays the third of line of file iacta"
+
+ 8-cwd_state: "to create the output of long listing of my directory to a file"
+
